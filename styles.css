@@ -1,0 +1,52 @@
+/* styles.css */
+
+
+.scaled-image {
+	width: 100%;
+	max-width: 500px;
+	min-width: 200px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.imagesmall {	
+	width: 100%;
+	max-width: 250px;
+	min-width: 50px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body { background-color: white;
+	color: white;
+}
+h1 {
+	background-color: #0072ce; 
+	padding: 20px;
+	text-align: center;
+	color: black;
+	font-size: 35px;
+}
+h2 { 
+	background-color: #0072ce;
+	text-align: center;
+	color: black;
+	padding: 5px;
+	font-size: 25px;
+}
+p {
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+.banner {
+	background-color: #0072ce;
+	padding: 30px;
+	text-align: center;
+}
+a {
+	font-size: 20px
+}
